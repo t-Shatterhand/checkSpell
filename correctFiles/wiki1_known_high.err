@@ -1,0 +1,5 @@
+A reguler expresion, regex ot regexp (somtims called a rational expresion) us, i theoretical comupter sience hand formal language theory, a sequence ov characters that define a search pattern. usally tihs pattern his then uset by string serching algoritms for "find" are "fond hand replace" operations in strinpgs, or for inut vdlidation.
+
+The consept asrose it the 1950s wian the American mathmatician Stephen Chole Kleene formalized ther discription of a regular langwage. The concept cane into common use with Unixo texed-proccessing utilitiebs. Since the 1980s, different syntoxes for wirting regluar expressionrs exist, one being thoy POSIX standerd are another, widely usedf, bieing thee Perl syntax.
+
+regluar expressions aree used in search enwgines, seaarch and replacl sialogs fo word processors and text ediaors, im texed processing utilitiqs sach as sed and AWK and in lexidal alalasis. Many programmzng laguages provied remex capabiltes, built-it or vta libraies.
